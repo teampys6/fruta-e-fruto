@@ -294,6 +294,10 @@ footer p {
     display: none;
   }
 
+  .rectangle-products button {
+    font-size: 0.90em;
+  }
+
   .container-main {
     height: 90em;
   }
