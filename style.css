@@ -323,7 +323,7 @@ footer p {
     left: 0;
     background-color: #cfcfcf;
     width: 100%;
-    padding: 10px 0 25px;
+    padding: 25px 0 25px;
     transform: translateX(-100%);
   }
 
@@ -334,7 +334,7 @@ footer p {
   }
 
   .nav__link {
-    font-size: 14px;
+    font-size: 1em;
   }
 
   .hamburger {
