@@ -230,7 +230,7 @@ ul {
   font-weight: 400;
 }
 
-.container-footer p {
+.subtitle-footer {
   font-family: 'Roboto';
   color: #8C8888;
   font-size: 1.75rem;
@@ -310,7 +310,7 @@ footer p {
   }
 
   .container-footer {
-    height: auto;
+    height: 70em;
   }
 
   .users {
@@ -375,7 +375,7 @@ footer p {
   }
 
   .profile img {
-    width: 200px;
+    width: 160px;
   }
   
   .container-main {
@@ -383,9 +383,21 @@ footer p {
   }
 
   .subtitle-footer {
-    text-align: center;
     font-size: 1.25em;
+    text-align: center;
     width: 70%;
+  }
+
+  .title-footer {
+    font-size: 2.80em;
+  }
+
+  .profile h1 {
+    font-size: 1.6em;
+  }
+
+  .profile p {
+    font-size: 1.1em;
   }
 
   .products-grid-1 {
