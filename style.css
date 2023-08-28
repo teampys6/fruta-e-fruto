@@ -365,8 +365,9 @@ footer p {
   }
 
   .container-footer p {
+    text-align: center;
     font-size: 1.25em;
-    width: 50%;
+    width: 70%;
   }
 
   .products-grid-1 {
@@ -376,10 +377,10 @@ footer p {
   }
 
   .container-top h1 {
-    font-size: 23px;
+    font-size: 22px;
   }
 
   .container-middle h1 {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
