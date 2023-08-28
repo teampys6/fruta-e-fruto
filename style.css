@@ -366,6 +366,7 @@ footer p {
 
   .container-footer p {
     font-size: 1.25em;
+    width: 50%;
   }
 
   .products-grid-1 {
@@ -379,6 +380,6 @@ footer p {
   }
 
   .container-middle h1 {
-    font-size: 23px;
+    font-size: 20px;
   }
 }
