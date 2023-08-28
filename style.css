@@ -293,6 +293,10 @@ footer p {
     height: 90em;
   }
 
+  .container-top img {
+    height: 22em;
+  }
+
   .products-grid-1 {
     display: flex;
     justify-content: center;
@@ -346,6 +350,10 @@ footer p {
 }
 
 @media (max-width: 570px) {
+  .container-top img {
+    height: 22em;
+  }
+
   .container-top h1 {
     font-size: 30px;
   }
@@ -356,6 +364,10 @@ footer p {
 }
 
 @media (max-width: 450px) {
+  .container-top img {
+    height: 24em;
+  }
+
   .profile img {
     width: 200px;
   }
@@ -364,7 +376,7 @@ footer p {
     height: 177.590em;
   }
 
-  .container-footer p {
+  .subtitle-footer {
     text-align: center;
     font-size: 1.25em;
     width: 70%;
@@ -377,7 +389,7 @@ footer p {
   }
 
   .container-top h1 {
-    font-size: 22px;
+    font-size: 23px;
   }
 
   .container-middle h1 {
