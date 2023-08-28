@@ -137,6 +137,7 @@ ul {
 .container-middle p {
   color: #8C8888;
   text-align: center;
+  font-size: 1.20em;
   width: 35%;
   font-family: 'Roboto';
   font-weight: 300;
@@ -389,10 +390,15 @@ footer p {
   }
 
   .container-top h1 {
-    font-size: 23px;
+    font-size: 28px;
+  }
+
+  .container-middle p {
+    width: 80%;
+    font-size: 1.10em;
   }
 
   .container-middle h1 {
-    font-size: 18px;
+    font-size: 23px;
   }
 }
