@@ -12,6 +12,10 @@
   margin-left: 1.81rem;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   padding-top: 60px;
 }
@@ -317,7 +321,7 @@ footer p {
     position: fixed;
     top: 80px;
     left: 0;
-    background-color: rgb(19, 22, 26);
+    background-color: #cfcfcf;
     width: 100%;
     padding: 10px 0 25px;
     transform: translateX(-100%);
