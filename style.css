@@ -346,7 +346,8 @@ footer p {
   }
 
   .container-middle p {
-    width: 70%;
+    width: 80%;
+    font-size: 1.11em;
   }
 }
 
@@ -390,15 +391,15 @@ footer p {
   }
 
   .container-top h1 {
-    font-size: 28px;
+    font-size: 26px;
   }
 
   .container-middle p {
-    width: 80%;
+    width: 90%;
     font-size: 1.11em;
   }
 
   .container-middle h1 {
-    font-size: 23px;
+    font-size: 22px;
   }
 }
