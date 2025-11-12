@@ -15,7 +15,7 @@ navEl.addEventListener('click', () => {
 const recipes = {
   'tigela-abacate': {
     title: 'Tigela de abacate',
-    image: 'assets/img/tigela_abacate.png',
+    image: 'assets/images/tigela_abacate.png',
     description: 'Receita refrescante e cheia de vitaminas para de seu café da manhã.',
     ingredients: [
       '1 abacate maduro',
@@ -36,7 +36,7 @@ const recipes = {
   },
   'salada-kiwi': {
     title: 'Salada de kiwi',
-    image: 'assets/img/salada_kiwi.png',
+    image: 'assets/images/salada_kiwi.png',
     description: 'Receita refrescante e cheia de vitaminas para de seu café da manhã.',
     ingredients: [
       '3 kiwis maduros',
@@ -57,7 +57,7 @@ const recipes = {
   },
   'mix-vegetais': {
     title: 'Mix de vegetais',
-    image: 'assets/img/mix_vegetais.png',
+    image: 'assets/images/mix_vegetais.png',
     description: 'Receita refrescante e cheia de vitaminas para de seu café da manhã.',
     ingredients: [
       '1 cenoura média',
@@ -82,7 +82,7 @@ const recipes = {
   },
   'prato-oriental': {
     title: 'Prato oriental',
-    image: 'assets/img/prato_oriental.png',
+    image: 'assets/images/prato_oriental.png',
     description: 'Receita refrescante e cheia de vitaminas para seu café da manhã.',
     ingredients: [
       '200g de arroz integral',
@@ -105,7 +105,7 @@ const recipes = {
   },
   'beterrabas-assadas': {
     title: 'Beterrabas assadas',
-    image: 'assets/img/beterrabas_assadas.png',
+    image: 'assets/images/beterrabas_assadas.png',
     description: 'Receita refrescante e cheia de vitaminas para seu café da manhã.',
     ingredients: [
       '3 beterrabas médias',
@@ -125,7 +125,7 @@ const recipes = {
   },
   'pimentoes-juliana': {
     title: 'Pimentões à Juliana',
-    image: 'assets/img/pimentoes_juliana.png',
+    image: 'assets/images/pimentoes_juliana.png',
     description: 'Receita refrescante e cheia de vitaminas para seu café da manhã.',
     ingredients: [
       '2 pimentões vermelhos',
